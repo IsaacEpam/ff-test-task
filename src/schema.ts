@@ -1,0 +1,1 @@
+export { flags } from './flags/flags.model.js';
