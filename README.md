@@ -64,6 +64,7 @@ npm run test:e2e
 
 # If I had another day
 - Dockerize app.
+- GUI.
 - Changelog.
 - Repository-level caching, keep out the cache details from controllers.
 - Runtime DTO validation.
